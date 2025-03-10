@@ -1,10 +1,10 @@
 class evenodd{
   public static void main(String[] args){
     int a=8;
-    if(a%2==0)
-      System.out.println("Even number");
-    else
-      System.out.println("Odd number");
+    int b=7;
+    int c=a+b;
+      System.out.println("The sum :" +c);
+   
   }
 }  
       
