@@ -4,7 +4,7 @@ class evenodd{
     if(a%2==0)
       System.out.println("Even number");
     else
-      System.out.println9"Odd number");
+      System.out.println("Odd number");
   }
 }  
       
